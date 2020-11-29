@@ -21,9 +21,9 @@ void main(void) {
 
     y = SetBit(x, bit);
 
-    printf("O valor de entrada eh: %x\n", x);
-    printf("O bit a ser setado eh: %d\n", bit);
-    printf("O resultado eh: %x", y);
+    printf("O valor de entrada: %x\n", x);
+    printf("O bit a ser setado: bit%d\n", bit);
+    printf("O resultado: %x", y);
 
 }
 
